@@ -8,3 +8,4 @@ Notes and usage details for afm-Server.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue

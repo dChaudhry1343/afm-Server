@@ -14,3 +14,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // clarify the control flow
 // match the style used in the rest of the module
 // guard against empty input
+// clarify the control flow

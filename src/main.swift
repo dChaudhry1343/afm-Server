@@ -20,3 +20,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // guard against empty input
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest

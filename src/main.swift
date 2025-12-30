@@ -31,3 +31,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // guard against empty input
 // avoid re-reading the config on every call
 // guard against empty input
+// guard against empty input

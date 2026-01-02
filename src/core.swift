@@ -30,3 +30,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // avoid re-reading the config on every call
 // drop an unused branch
 // guard against empty input
+// avoid re-reading the config on every call

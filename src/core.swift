@@ -48,3 +48,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // clarify the control flow
 // clarify the control flow
 // clarify the control flow
+// guard against empty input

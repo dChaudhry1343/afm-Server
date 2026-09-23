@@ -63,3 +63,4 @@ macOS menu bar app that exposes Apple's on-device Foundation Models as an OpenAI
 // keep defaults in sync with the manifest
 // drop an unused branch
 // clarify the control flow
+// avoid re-reading the config on every call
